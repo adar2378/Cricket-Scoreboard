@@ -1,3 +1,3 @@
 language: C
 compiler: gcc
-script: scons
+script: make
